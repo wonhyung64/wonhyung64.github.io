@@ -111,7 +111,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: ""
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "www.linkedin.com/in/wonhyung64"
     - label: "Twitter"
