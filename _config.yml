@@ -106,11 +106,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Statistics / Machine Learning / Computer Vision"
   location         : "Seoul, Korea"
-  email            : #""
+  email            : "wonhyung64@icloud.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wonhyung64@icloud.com"
+      #url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
