@@ -113,7 +113,7 @@ author:
       #url: ""
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "www.linkedin.com/in/wonhyung64"
+      url: "https://www.linkedin.com/in/wonhyung64"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
